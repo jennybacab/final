@@ -1,0 +1,9 @@
+# These are some of the basic commands of the console
+
+ help to see the most used commands
+ help nameofthecommand to see what it does
+ cls to clear the screen
+ arrows to see previously used commands and not have to type them again
+ mkdir name to create a subdirectory
+ rmdir to remove a subdirectory if it is empty
+ 
