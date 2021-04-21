@@ -48,3 +48,22 @@
  git status gives you the status of the computer
 
  
+# Part two: Git
+
+ git config --global user.name "example.username"
+
+ git config --global user.email "example@dominio.end"
+
+ git config --global core.editors nameoftheeditor
+
+ git config--list lets you chech your configurations
+
+ git init to initiate git
+
+ git nano filename.extension creates a file named file name with the especified extension
+
+ git add filename.extension adds it
+
+ git 
+ 
+ 
