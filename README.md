@@ -6,7 +6,6 @@
  
  It is important to note that you can create multiple folders in the same line
  
- 
  rmdir name is used to remove the directory named name. 
  
  It is possible to use a /s flag to delete a directory that has nested files and subdirectories
@@ -60,10 +59,27 @@
 
  git init to initiate git
 
- git nano filename.extension creates a file named file name with the especified extension
+ git nano filename.extension creates a file named file name with the especified extension and lets you type it,
+ you would use ctrl+x to leave, y to save and then enter
 
- git add filename.extension adds it
+ git add filename.extension adds it to start tracking it
 
- git 
+ git commit "this is the commit" lets you commit it
+
+ git push is used to upload 
+
+ git clone https://github.com/example is used if you want to clone a directory
+
+ $ cat .gitignore *.[extension] *~ is used to tell git to ignore files with that extension and the second to ignore files ending with the symbol
+
+ git diff gives the difference between files
+
+ git rm filename.extension removes the file 
+
+ git log allows to see the history
+
+ git remote -v lets you see the remotes that are associated
+
+ git checkout -b branchname switches to a branch
  
  
