@@ -40,3 +40,11 @@
  help makes useful commands appear
 
  help command \? gives you more details on the command 
+
+ git diff compares two archives
+
+ nano name.extension creates an archive named name with the specified extension
+
+ git status gives you the status of the computer
+
+ 
