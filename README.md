@@ -82,4 +82,12 @@
 
  git checkout -b branchname switches to a branch
  
+ git merge otherbranch to merge them
+
+ git branch -d example is used to delete the branch example
+
+ git mergetool is used as a graphic tool so see merging problems and resolve them
+
+ git commit would let you finally commit the merge
+
  
