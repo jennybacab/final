@@ -90,4 +90,24 @@
 
  git commit would let you finally commit the merge
 
+ git flow init initiates gitflow
+
+ git flow feature start feature/example creates a new feature
+
+ git flow feature publish feature/example publishes it from the remote desk
+
+ git flow feature pull origin feature/example is used to obtain a feature branch from the remote repository
+
+ git flow feature track feature/example to start tracking it
+
+ git flow release start release--0.1 starts the release 0.1
+
+ git flow release finish release--0.1 finishes the release
+
+ git flow publish release--0.1 publishes the release
+
+ git flow hotfix start hotfix--0.2 creates a hotfix
+
+ git flow hotfix finish hotfix--0.2 would finish it
+
  
