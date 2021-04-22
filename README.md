@@ -70,7 +70,7 @@
 
  git clone https://github.com/example is used if you want to clone a directory
 
- $ cat .gitignore *.[extension] *~ is used to tell git to ignore files with that extension and the second to ignore files ending with the symbol
+ cat .gitignore *.[extension] *~ is used to tell git to ignore files with that extension and the second to ignore files ending with the symbol
 
  git diff gives the difference between files
 
