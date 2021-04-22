@@ -47,7 +47,7 @@
  git status gives you the status of the computer
 
  
-# Part two: Git
+# Second part: Git
 
  git config --global user.name "example.username"
 
