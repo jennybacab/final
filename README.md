@@ -8,7 +8,7 @@
  
  rmdir name is used to remove the directory named name. 
  
- It is possible to use a /s flag to delete a directory that has nested files and subdirectories
+ As a note, it is possible to use a /s flag to delete a directory that has nested files and subdirectories
  
  cd allows you to change directories
 
@@ -53,11 +53,11 @@
 
  git config --global user.email "example@dominio.end"
 
- git config --global core.editors nameoftheeditor
+ git config --global core.editors nameoftheeditor defines which editor to use
 
- git config--list lets you chech your configurations
+ git config--list lets you check your configurations
 
- git init to initiate git
+ git init is used to start a repository in your computer
 
  git nano filename.extension creates a file named file name with the especified extension and lets you type it,
  you would use ctrl+x to leave, y to save and then enter
